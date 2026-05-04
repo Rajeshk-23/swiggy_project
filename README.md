@@ -12,7 +12,7 @@ Blue-Green deployment is a technique used to minimize downtime and risk during t
 **Setting up AWS ECS for Swiggy-Clone:**  
 To demonstrate Blue-Green deployment, we’ll use AWS ECS to host our Swiggy-clone application. ECS is a highly scalable container orchestration service provided by AWS.
 
-Implementing Blue-Green Deployment with AWS CodePipeline:  
+Implementing Blue-Green Deployment with AWS CodePipeline:
 AWS CodePipeline is a fully managed continuous integration and continuous delivery (CI/CD) service that automates the build, test, and deployment phases of your release process. **Let’s see how to set up a Blue-Green deployment pipeline using AWS CodePipeline:**
 
 **1\. Source Stage:** Connect your CodePipeline to your source code repository (e.g., GitHub). Trigger the pipeline when changes are detected in the repository.
