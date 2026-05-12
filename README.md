@@ -534,7 +534,3 @@ Observe that the title changed as expected.
 ## Hit the Star! ⭐
 
 **If you are planning to use this repository for learning, please give it a star. Thanks!**
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
